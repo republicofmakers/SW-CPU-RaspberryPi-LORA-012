@@ -1,1 +1,1 @@
-# SW-CPU-RaspberryPi-USB-012
+# SW-CPU-RaspberryPi-LORA-012
